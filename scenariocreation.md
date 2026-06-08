@@ -110,7 +110,7 @@ DeviceFileEvents
 ### Validation Date:
 ---
 
-Next Step: [Security Team Investigation](     )
+Next Step: [Security Team Investigation](https://github.com/JonathanGribe/ThreatHuntingScenario_PIIExfiltration/blob/main/Report.md)
 
 ## Additional Notes
 ---
